@@ -1,1 +1,2 @@
-texto qualquer
+texto qualquer: este meu texto qualquer
+terá duas linhas agora!
